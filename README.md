@@ -1,4 +1,7 @@
-## Hi there 👋
+## oi!
+18 anos, gosto de cachorros
+
+![3c1073e2391a972945a17a402d67b2cb](https://github.com/droquinha/droquinha/assets/172428649/b1d47ff9-0f8b-45dc-9877-019d84e6a25e)
 
 <!--
 **droquinha/droquinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
